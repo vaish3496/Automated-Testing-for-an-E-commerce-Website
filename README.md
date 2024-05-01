@@ -17,7 +17,6 @@ The below requirements have been automated -
 Folder directory information - 
 * drivers - Chromedriver.exe file
 * Reports - HTML-testrunner generated reports
-* Screenshots - Saved test screenshots (png)
 * Pages - Separate python files for every page in the website (POM)
 * Test - Main file consisting of the test script
 
